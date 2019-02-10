@@ -1,0 +1,3 @@
+O arquivo twitter_archive_master.csv e os outros usados na limpeza de 
+dados estão na pasta "Data_Final". Assim como o banco sqllite
+"weratedogs.db"
