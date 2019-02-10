@@ -8,13 +8,18 @@ O conjunto de dados no qual você irá fazer o wrangling (e analisar e visualiza
 WeRateDogs deu à Udacity acesso exclusivo a seu arquivo tweets para este projeto. Este arquivo contém dados básicos de tweets para todos os seus mais de 5000 tweets como eles estavam em 1 de agosto de 2017. 
 
 Qual é o software de que eu preciso?
-Você precisa ser capaz de trabalhar em um notebook Jupyter em seu computador. Revisite nossos tutoriais sobre notebook Jupyter e Anaconda que apareceram anteriormente no programa Nanodegree para instruções de instalação.
+
+Você precisa ser capaz de trabalhar em um notebook Jupyter em seu computador. 
+Revisite nossos tutoriais sobre notebook Jupyter e Anaconda que apareceram anteriormente no programa Nanodegree para instruções de instalação.
 Os seguintes pacotes (ou seja, bibliotecas) são necessários para concluir este projeto:
+
 •	pandas
 •	numpy
 •	requests
 •	tweepy
 •	json
+
 Você pode instalar esses pacotes via conda ou pip. Revisite nosso tutorial sobre Anaconda que apareceu anteriormente no programa Nanodegree para instruções de instalação de pacotes.
 Você também precisa ser capaz de criar documentos escritos com imagens que possam ser exportados como arquivos PDF. Exemplo: Google Docs, que é gratuito.
+
 Um editor de texto, como Sublime (que é gratuito), será útil, mas não é necessário.
